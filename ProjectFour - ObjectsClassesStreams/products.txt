@@ -1,0 +1,27 @@
+english
+21007
+1
+electronics
+24100
+10
+linear 
+34600
+100
+circuits 
+21400
+2
+engineering 
+314600
+20
+microprocessor 
+31700
+200
+diff equations
+20400
+3
+computing
+10300
+30
+analysis
+10400
+300
